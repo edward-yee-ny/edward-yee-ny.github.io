@@ -7,4 +7,26 @@ body {
 
 p {
   font-size: 16px;
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h1, h2, h3{
+  margin-top: 0.4rem;
+  margin-bottom: 0.4rem;
+}
+
+ol, ul {
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+  padding-left: 1.8rem;
+}
+
+li {
+  margin-top: 0.2rem;
+  margin-top: 0.2rem;
 }
